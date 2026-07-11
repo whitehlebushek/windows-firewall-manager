@@ -1,5 +1,4 @@
-# windows-firewall-manager
-<p align="center">
+﻿<p align="center">
   <img src="https://img.shields.io/badge/Windows_Firewall_Manager-1.1.0-18181B?style=for-the-badge&labelColor=F4F4F5" alt="version"/>
 </p>
 
